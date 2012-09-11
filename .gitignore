@@ -1,0 +1,6 @@
+_extras
+.*
+*.mo
+make*.py*
+nbproject
+socketcom.*
